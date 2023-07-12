@@ -1,4 +1,4 @@
-
+#Question 2:
 def get_file_extension(filename):
     # Split the filename into its base name and extension
     split_filename = filename.split(".")
