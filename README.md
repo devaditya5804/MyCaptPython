@@ -1,1 +1,1 @@
-Just a repository consisting of projects given by the #MyCaptain Courses 
+Just a repository consisting of coding questions given by the #MyCaptain Courses 
